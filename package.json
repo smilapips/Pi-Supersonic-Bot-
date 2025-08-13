@@ -1,9 +1,9 @@
 {
   "name": "supersonic_pi-bot",
   "version": "1.0.0",
-  "main": "Supersoni_Bot.js",
+  "main": "Supersonic-Bot.js",
   "scripts": {
-    "start": "node pi_telegram_pi_mainnet_bot.js"
+    "start": "node Supersonic-bot.js"
   },
   "dependencies": {
     "node-telegram-bot-api": "^0.61.0",
