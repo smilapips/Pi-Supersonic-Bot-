@@ -1,1 +1,16 @@
-t
+{
+  "name": "supersonic_pi-bot",
+  "version": "1.0.0",
+  "main": "Supersoni_Bot.js",
+  "scripts": {
+    "start": "node pi_telegram_pi_mainnet_bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemailer": "^6.9.1",
+    "stellar-sdk": "^10.5.0",
+    "bip39": "^3.0.4",
+    "ed25519-hd-key": "^1.4.0",
+    "dotenv": "^16.0.3"
+  }
+}
