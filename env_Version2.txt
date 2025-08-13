@@ -1,0 +1,5 @@
+BOT_TOKEN=your-telegram-bot-token
+ADMIN_ID=your-admin-id
+ADMIN_EMAIL=your-admin-email@example.com
+GMAIL_USER=your-gmail-address@gmail.com
+GMAIL_PASS=your-gmail-app-password
