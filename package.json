@@ -1,7 +1,8 @@
 {
-  "name": "supersonic_pi-bot",
+  "name": "pi-supersonic-bot",
   "version": "1.0.0",
-  "main": "Supersonic-Bot.js",
+  "description": "Telegram Pi Network Mainnet Withdrawal Bot",
+  "main": "Supersonic-bot.js",
   "scripts": {
     "start": "node Supersonic-bot.js"
   },
@@ -12,5 +13,7 @@
     "bip39": "^3.0.4",
     "ed25519-hd-key": "^1.4.0",
     "dotenv": "^16.0.3"
-  }
+  },
+  "author": "smilapips",
+  "license": "MIT"
 }
